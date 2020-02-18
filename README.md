@@ -14,7 +14,7 @@ Database :
 
   No-SQL for user data storage
   
-  ElasticSearch for indexing
+  ElasticSearch for indexing (Not used anymore due to AWS ElasticSearch Costs. Vestor.ca uses thirdparty search REST at this moment)
   
   PostgreSQL for stock data storage --unfinished
   
