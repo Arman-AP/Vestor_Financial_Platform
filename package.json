@@ -5,7 +5,7 @@
   "dependencies": {
     "aws-amplify": "^2.2.1",
     "aws-sdk": "^2.597.0",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bulma": "^0.8.0",
     "case": "^1.6.2",
     "dynamodb-to-elasticsearch": "^0.2.1",
